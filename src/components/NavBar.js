@@ -7,3 +7,5 @@ function NavBar() {
     </nav>
   );
 }
+// default export syntax
+export default NavBar;

@@ -1,4 +1,6 @@
 import React from "react";
+// import username and city variables
+import {username, city} from "../data/user"
 
 function Home() {
   return (
@@ -9,3 +11,5 @@ function Home() {
     </div>
   );
 }
+// default export syntax
+export default Home;
